@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name" translatable="false">Backpicking</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="action_settings">Settings</string>
+
+
+    <string name="happy_picking">Happy Picking</string>
+
+
+    <string name="jobs">Jobs</string>
+    <string name="crop">Crop/Fruit</string>
+    <string name="location">Location</string>
+    <string name="communicate">Communicate</string>
+    <string name="share">Share</string>
+    <string name="chat">Chat</string>
+    <string name="feedback">Feedback</string>
+    <string name="info">Info</string>
+    <string name="tools">Tools</string>
+    <string name="smart_kit">Smart Kit</string>
+
+
+
+    <string name="information">::Information::</string>
+    <string name="elevation">Elevation:</string>
+    <string name="elevation_info">750&#8211;835m (2468 feet)</string>
+    <string name="rainfall">Rainfall:</string>
+    <string name="rainfall_info">1360mm annually</string>
+    <string name="temperatures">Temperatures:</string>
+    <string name="temperatures_info">Summer: 18&#8211;38 degrees  //  Winter: minus 1&#8211;17 degrees</string>
+    <string name="industries">Industries:</string>
+    <string name="industries_info">Sugar cane, peanuts, mangoes, maize/corn, potatoes, avocados, macadamia nuts, dairy and beef cattle.</string>
+    <string name="soils">Soils:</string>
+    <string name="soils_info">Soil varies from Atherton to Mareeba.</string>
+    <string name="soils_info_1">Atherton soil is generally red, structured, high clay soil with an acid-neutral pH, well drained with good fertility and dreived from basalt.</string>
+    <string name="soils_info_2">Mareeba/Dimbulah soil is a sandy loam/sandy clay loam over a red, structured, coarse sandy clay soil with a slightly acid pH and well drained, derived from granite and have inherent low fertility.</string>
+    <string name="other_crops">Other Crops:</string>
+    <string name="other_crops_info">Other crops grown on the Atherton Tablelands are native flowers and roses, exotic fruits, strawberries, bananas and tomatoes.</string>
+
+    <string name="time_to_call">Best time to call is between 12&#8211;1 and after 6 pm.</string>
+
+
+
+
+
+</resources>

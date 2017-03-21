@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Подесувања</string>
+    <string name="communicate">Комуникација</string>
+    <string name="crop">Род/Овошје</string>
+    <string name="elevation">Височина:</string>
+    <string name="elevation_info">750&#8211;835m (2468 стапки)</string>
+    <string name="happy_picking">Среќно берење</string>
+    <string name="industries">Сектори:</string>
+    <string name="industries_info">Шеќерна трска, кикиритки, манго, пченка, компири, авокадо, macadamia ореви, млечни производи и стока.</string>
+    <string name="info">Инфо</string>
+    <string name="information">::Информации::</string>
+    <string name="jobs">Вработувања</string>
+    <string name="location">Локација</string>
+    <string name="navigation_drawer_close">Затвори ја фиоката за навигација</string>
+    <string name="navigation_drawer_open">Отвори ја фиоката за навигација</string>
+    <string name="other_crops">Други Агро-култури:</string>
+    <string name="other_crops_info">Други Агро-култури од Atherton Висорамнини се домашни цвеќиња и рози, егзотично овошје, јагоди, банани и домати.</string>
+    <string name="rainfall">Врнежи од дожд:</string>
+    <string name="rainfall_info">1360mm годишно</string>
+    <string name="season">Сезона</string>
+    <string name="send">Испрати</string>
+    <string name="share">Сподели</string>
+    <string name="soils">Почви:</string>
+    <string name="soils_info">Почвата варира од Atherton да Mareeba.</string>
+    <string name="soils_info_1">Atherton почвата е обично црвена, структурирана, глинeста почва со киселина неутрален pH, добро исцедена со добра плодност и добиена од Basalt.</string>
+    <string name="soils_info_2">Mareeba/Dimbulah почвата е песочен кирпич/песочен глинест кирпич над црвена, структурирана, груба песочна глина со малку киселина рН, и добро исцедена, добиена од Гранит и има својствено ниска плодност.</string>
+    <string name="temperatures">Температури:</string>
+    <string name="temperatures_info">Лето: 18&#8211;38 степени  //  Зима: минус 1&#8211;17 степени</string>
+    <string name="time_to_call">Најдобро време да се јавите е помеѓу 12&#8211;1 и по 6 часот попладне.</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Einstellungen</string>
+    <string name="communicate">Kommunizieren</string>
+    <string name="crop">Ernte/Frucht</string>
+    <string name="elevation">Höhe:</string>
+    <string name="elevation_info">750&#8211;835m (2468 Fuß)</string>
+    <string name="happy_picking">Fröhliches Pflücken</string>
+    <string name="industries">Branchen:</string>
+    <string name="industries_info">Zuckerrohr, Erdnüsse, Mangos, Mais, Kartoffeln, Avocados, Macadamianüsse, Milch- und Rindvieh.</string>
+    <string name="info">Info</string>
+    <string name="information">::Information::</string>
+    <string name="jobs">Arbeitsplätze</string>
+    <string name="location">Ort</string>
+    <string name="navigation_drawer_close">Navigationsschublade schließen</string>
+    <string name="navigation_drawer_open">Navigationsschublade öffnen</string>
+    <string name="other_crops">Andere Nutzpflanzen:</string>
+    <string name="other_crops_info">Andere Nutzpflanzen angebaut auf die Atherton Hochebene sind Einheimische Blumen und Rosen, exotische Früchte, Erdbeeren, Bananen und Tomaten.</string>
+    <string name="rainfall">Regenfall:</string>
+    <string name="rainfall_info">1360mm jährlich</string>
+    <string name="season">Jahreszeit</string>
+    <string name="send">Senden</string>
+    <string name="share">Teilen</string>
+    <string name="soils">Gelände:</string>
+    <string name="soils_info">Der Boden variiert von Atherton bis Mareeba.</string>
+    <string name="soils_info_1">Atherton Boden ist in der Regel rot, strukturiert, hoher Lehmboden mit einem säure-neutralen pH-Wert, gut entwässert mit guter Fruchtbarkeit und abgeleitet von Basalt.</string>
+    <string name="soils_info_2">Mareeba/Dimbulah Boden ist ein sandiger Lehm über einem roten, strukturierten, groben sandigen Ton mit einem leicht sauren pH-Wert und entwässert gut, abgeleitet aus Granit und haт inhärent niedrige Fruchtbarkeit.</string>
+    <string name="temperatures">Temperaturen:</string>
+    <string name="temperatures_info">Sommer: 18&#8211;38 Grad  //  Winter: minus 1&#8211;17 Grad</string>
+    <string name="time_to_call">Die beste Zeit zum Anrufen ist zwischen 12&#8211;13 und nach 18 Uhr.</string>
+</resources>

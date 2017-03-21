@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:title="@string/jobs"
+        tools:ignore="HardcodedText">
+
+        <menu>
+            <item
+                android:id="@+id/nav_crop"
+                android:title="@string/crop" />
+
+            <item
+                android:id="@+id/nav_location"
+                android:title="@string/location"/>
+        </menu>
+    </item>
+
+
+    <item
+        android:title="@string/communicate"
+        tools:ignore="HardcodedText">
+        <menu>
+            <item
+                android:id="@+id/nav_feedback"
+                android:title="@string/feedback" />
+            <item
+                android:id="@+id/nav_chat"
+                android:title="@string/chat"/>
+            <item
+                android:id="@+id/nav_info"
+                android:title="@string/info"/>
+        </menu>
+    </item>
+
+    <item
+        android:title="@string/tools"
+        tools:ignore="HardcodedText">
+        <menu>
+            <item
+                android:id="@+id/nav_smart_kit"
+                android:title="@string/smart_kit"/>
+
+        </menu>
+    </item>
+
+</menu>
